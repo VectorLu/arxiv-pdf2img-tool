@@ -1,5 +1,12 @@
 # PDF转图片工具 / PDF to Image Converter
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![PyMuPDF](https://img.shields.io/badge/PyMuPDF-1.23.0+-green.svg)](https://pymupdf.readthedocs.io/)
+[![Pillow](https://img.shields.io/badge/Pillow-10.0.0+-orange.svg)](https://pillow.readthedocs.io/)
+
+[English](README_en.md) | [中文](README_zh.md)
+
 这个工具可以将figures文件夹下的所有PDF文件批量转换为高清PNG图片，并将现有的PNG文件复制到assets文件夹中。
 
 This tool can batch convert all PDF files in the figures folder to high-quality PNG images and copy existing PNG files to the assets folder.
@@ -9,6 +16,7 @@ This tool can batch convert all PDF files in the figures folder to high-quality 
 - 🔄 批量转换PDF为高清PNG图片 / Batch convert PDFs to high-quality PNG images
 - 📁 递归搜索所有子文件夹 / Recursively search all subfolders  
 - 📋 复制现有PNG文件 / Copy existing PNG files
+- 🗂️ 保留原有文件夹结构 / Preserve original folder structure
 - ⚙️ 可自定义DPI分辨率 / Customizable DPI resolution
 - 🌐 双语输出信息 / Bilingual output messages
 - ✅ 详细的处理状态报告 / Detailed processing status reports
