@@ -6,6 +6,8 @@
 [![Pillow](https://img.shields.io/badge/Pillow-10.0.0+-orange.svg)](https://pillow.readthedocs.io/)
 [![English Docs](https://img.shields.io/badge/docs-English-blue.svg)](README_en.md)
 
+[English](README.md) | [中英对照](README_zh_en.md) | [中文](README_zh.md) 
+
 This tool can batch convert all PDF files in the figures folder to high-quality PNG images and copy existing PNG files to the assets folder.
 
 ## Features
